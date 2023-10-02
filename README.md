@@ -3,7 +3,7 @@ My CSN-221 project
 
 - **Project details :**
 
-- **Following are the set of instructions which will my simulator supports :**
+- **Following are the set of instructions which my simulator supports :**
     
     immediate
     
