@@ -28,7 +28,7 @@ My CSN-221 project
     
     jump
     
-    - **`jal`**Opcode: 1101111 (J-type)
+    - **`jal`** Opcode: 1101111 (J-type)
     
     store
     
