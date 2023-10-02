@@ -2,6 +2,8 @@
 My CSN-221 project
 
 - **Project details :**
+
+- **Following are the set of instructions which will my simulator supports :**
     
     immediate
     
@@ -31,6 +33,8 @@ My CSN-221 project
     store
     
     - **`sw`** (Store Word):Opcode: 0100011 (S-type), funct3: 010
+ 
+    **- Following are few example codes**
     
     **GCD and LCM :**
     
